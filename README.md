@@ -1,1 +1,2 @@
-# iklim-botu
+projemin fikri:
+>bir discord botu oluşucam
